@@ -18,7 +18,7 @@ var simplemaps_canadamap_mapdata={
     location_opacity: 0.8,
     location_hover_opacity: 1,
     location_url: "",
-    location_size: "45",
+    location_size: "41",
     location_type: "marker",
     location_image_source: "",
     location_border_color: "#FFFFFF",
@@ -121,52 +121,52 @@ var simplemaps_canadamap_mapdata={
     }
   },
   locations: {
-    "0": {
+    "0a": {
       name: "Darrick Graff",
       lat: 53.555,
       lng: -113.906
     },
-    "1": {
+    "1a": {
       name: "Marc-André Aubin",
       lat: 45.266,
       lng: -73.604
     },
-    "2": {
+    "2a": {
       name: "Robert Perry",
       lat: 50.579,
       lng: -119.941
     },
-    "3": {
+    "3a": {
       name: "Mathew McMullen",
       lat: 50.951,
       lng: -113.678
     },
-    "4": {
+    "4a": {
       name: "Johnathan Senger",
       lat: 50.591,
       lng: -113.897
     },
-    "5": {
+    "5a": {
       name: "Corey Alaver",
       lat: 44.339,
       lng: -76.83
     },
-    "6": {
+    "6a": {
       name: "Scott Field",
       lat: 45.307,
       lng: -75.899
     },
-    "7": {
+    "7a": {
       name: "Jesse Beaudrow",
       lat: 44.43,
       lng: -79.147
     },
-    "8": {
+    "8a": {
       name: "Gareth Lockhart",
       lat: 49.173,
       lng: -122.582
     },
-    "9": {
+    "9a": {
       name: "Max Racette",
       lat: 52.833,
       lng: -110.841
