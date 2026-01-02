@@ -18,7 +18,7 @@ var simplemaps_canadamap_mapdata={
     location_opacity: 0.8,
     location_hover_opacity: 1,
     location_url: "",
-    location_size: "41",
+    location_size: "39",
     location_type: "marker",
     location_image_source: "",
     location_border_color: "#FFFFFF",
